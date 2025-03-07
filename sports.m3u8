@@ -1,60 +1,60 @@
 #EXTCPlayListM3U::M3U
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 1 HD
+#EXTINF:-1 tvg-id="cosmote_sport_1" group-title="Cosmote Sports",Cosmote Sport 1 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-622.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 2 HD
+#EXTINF:-1 tvg-id="cosmote_sport_2" group-title="Cosmote Sports",Cosmote Sport 2 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-623.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 3 HD
+#EXTINF:-1 tvg-id="cosmote_sport_3" group-title="Cosmote Sports",Cosmote Sport 3 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-624.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 4 HD
+#EXTINF:-1 tvg-id="cosmote_sport_4" group-title="Cosmote Sports",Cosmote Sport 4 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-625.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 5 HD
+#EXTINF:-1 tvg-id="cosmote_sport_5" group-title="Cosmote Sports",Cosmote Sport 5 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-626.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="cosmote_sport_6" group-title="Cosmote Sports",Cosmote Sport 6 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-627.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 7 HD
+#EXTINF:-1 tvg-id="cosmote_sport_7" group-title="Cosmote Sports",Cosmote Sport 7 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-628.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 8 HD
+#EXTINF:-1 tvg-id="cosmote_sport_8" group-title="Cosmote Sports",Cosmote Sport 8 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-629.php
-#EXTINF:0 group-title="Cosmote Sports",Cosmote Sport 9 HD
+#EXTINF:-1 tvg-id="cosmote_sport_9" group-title="Cosmote Sports",Cosmote Sport 9 HD
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-630.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 1 Greece
+#EXTINF:-1 tvg-id="novasports1" group-title="Nova Sports",Nova Sports 1 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-631.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 2 Greece
+#EXTINF:-1 tvg-id="novasports2" group-title="Nova Sports",Nova Sports 2 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-632.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 3 Greece
+#EXTINF:-1 tvg-id="novasports3" group-title="Nova Sports",Nova Sports 3 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-633.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 4 Greece
+#EXTINF:-1 tvg-id="novasports4" group-title="Nova Sports",Nova Sports 4 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-634.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 5 Greece
+#EXTINF:-1 tvg-id="novasports5" group-title="Nova Sports",Nova Sports 5 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-635.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports 6 Greece
+#EXTINF:-1 tvg-id="novasports6" group-title="Nova Sports",Nova Sports 6 Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-636.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="novasportspl" group-title="Nova Sports",Nova Sports Premier League Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-599.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports Start Greece
+#EXTINF:-1 tvg-id="novasportsstart" group-title="Nova Sports",Nova Sports Start Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-637.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports Prime Greece
+#EXTINF:-1 tvg-id="novasportsprime" group-title="Nova Sports",Nova Sports Prime Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-638.php
-#EXTINF:0 group-title="Nova Sports",Nova Sports News Greece
+#EXTINF:-1 tvg-id="novasportsnews" group-title="Nova Sports",Nova Sports News Greece
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.to%2F%2Fstream%2Fstream-639.php
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 1 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports1" group-title="Cytavision Sports",Cytavision Sports 1 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium911/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 2 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports2" group-title="Cytavision Sports",Cytavision Sports 2 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium912/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 3 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports3" group-title="Cytavision Sports",Cytavision Sports 3 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium913/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 4 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports4" group-title="Cytavision Sports",Cytavision Sports 4 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium914/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 5 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports5" group-title="Cytavision Sports",Cytavision Sports 5 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium915/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports6" group-title="Cytavision Sports",Cytavision Sports 6 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium916/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:0 group-title="Cytavision Sports",Cytavision Sports 7 Cyprus
+#EXTINF:-1 tvg-id="cytavisionsports7" group-title="Cytavision Sports",Cytavision Sports 7 Cyprus
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
 https://windnew.koskoros.ru/wind/premium917/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
